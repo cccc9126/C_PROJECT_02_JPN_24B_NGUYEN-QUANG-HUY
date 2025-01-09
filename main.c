@@ -53,7 +53,7 @@ int main(int argc, const char * argv[]) {
                 printf("\n");
 
                 
-                categoryShow(&choice, category, &size, &lock, Item);
+                manager(category, Item, &size, &lock,&choice);
                 break;
             default:
                 break;
