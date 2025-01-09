@@ -3,6 +3,8 @@
 #include <string.h>
 #include "datatype.h"
 #include "function.h"
+/*user : huy123@gmail.com
+ pass: 012345*/
 int main(int argc, const char * argv[]) {
     Category category[100];
     char account[50];
